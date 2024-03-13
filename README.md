@@ -1,5 +1,3 @@
-# "biblioteca_pandas"
-
 ## Panorama do Varejo
 
 Exploramos um panorama com base nas vendas de uma loja virtual que abrange todo o território nacional, oferecendo uma ampla gama de produtos de diversos departamentos. Além disso, a loja opera em canais de vendas próprios, mercado e plataforma.
